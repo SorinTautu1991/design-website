@@ -2,7 +2,7 @@ import { CssBaseline } from '@mui/material';
 import { CacheProvider } from '@emotion/react';
 import createEmotionCache from '../lib/create-emotion-cache';
 import Head from 'next/head';
-import Footer from '../components/Footer/footer';
+import Footer from '../components/footer/footer';
 import { AppWrapper } from '../context/context';
 import ThemeWrapper from '../components/theme-wrapper/theme-wrapper';
 import Header from '../components/header/header';
