@@ -1,0 +1,10 @@
+.gimg {
+  border-radius: 5px;
+}
+
+.gimg:hover {
+  transform: scaleX(1.03) scaleY(1.03);
+  transition: 1s ease;
+  cursor: pointer;
+  opacity: 0.6;
+}
